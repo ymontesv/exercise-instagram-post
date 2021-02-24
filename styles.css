@@ -1,0 +1,52 @@
+body{
+background: black;
+
+}
+.container{
+    height: 570px;
+    width: 400px;
+    background: white;
+    margin: auto;
+}
+/*Aqui empieza la cabecera*/
+.cabecera .logo {
+    font-size: 30px;
+    padding: 20px;
+
+    display: inline-block;
+}
+.cabecera .titulo{
+    display: inline-block;
+}
+.cabecera .menu{
+    float: right;
+    padding: 20px;
+}
+
+/* aqui empieza el cuerpo*/
+ .cuerpo img {
+   width: 400px;
+   
+}
+.Iconos {
+    padding-left: 10px;
+    font-size: 30px;
+
+}
+.tag {
+    padding-right: 10px;
+    float: right;
+    font-size: 30px;
+
+}
+/*Aqui empieza el pie*/
+.pie .parrafo1{
+    padding:10px;
+    font-size: 15px;
+
+}
+.pie .parrafo2{
+    padding:10px;
+    font-size: 15px;
+
+}
